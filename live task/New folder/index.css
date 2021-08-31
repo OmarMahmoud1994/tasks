@@ -1,0 +1,21 @@
+
+.element1{
+    margin-left: 50px;
+}
+.element2{
+    margin-left: 50px;
+}
+.element3{
+    margin-left: 50px;
+    
+}
+.element4{
+    margin-left: 50px;
+   
+}
+.size{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}

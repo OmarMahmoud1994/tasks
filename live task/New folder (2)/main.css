@@ -1,0 +1,52 @@
+.myapp{
+    width: 90%;
+    height: 700px;
+    margin: auto;
+}
+.myapp-img{
+    width: 50%;
+    height: 600px;
+    float: right;
+}
+.clr{
+    clear: both;
+}
+
+.myapp-text{
+    width: 40%;
+    float: left;
+    margin-left: 90px;
+    margin-top: 200px;
+}
+.btn{
+
+    background-color: #3852e6;
+    color: white;
+    padding: 15px 40px;
+    
+}
+.myapp-imgg{
+    margin-left: -25px;
+}
+.about{
+    background-color: azure;
+    width: 100%;
+    height: 1000px;
+    margin: auto;
+}
+.about-img{
+    width: 500px;
+    height: 100%;
+    margin-left: 50px;
+    float: left;
+}
+.about-text{
+    width: 40%;
+    float: right;
+    margin-top: 200px;
+    margin-right: 140px;
+}
+.about-imgg{
+    margin-left: -25px;
+    color: azure;
+}
